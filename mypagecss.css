@@ -1,3 +1,18 @@
+header{
+
+    background-image: url(woodcafe.jpeg);
+    background-position:center;
+    background-size:cover;
+    text-align: center;
+    height:100%;
+    width: 100%;
+    position: relative;
+    display:flex;
+    align-items: center;
+
+
+}
+
 .wordsfinal:hover {
     animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
     transform: translate3d(0, 0, 0);
@@ -52,21 +67,6 @@ header, nav, #tmCarousel, #Contact, .pt{
 
 html {
     scroll-behavior: smooth
-}
-
-header{
-
-    background-image: url(woodcafe.jpeg);
-    background-position:center;
-    background-size:cover;
-    text-align: center;
-    height:100%;
-    width: 100%;
-    position: relative;
-    display:flex;
-    align-items: center;
-
-
 }
 
 
