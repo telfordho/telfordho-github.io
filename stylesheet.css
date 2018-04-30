@@ -53,7 +53,7 @@ html {
 }
 
 .navbar-container  { 
-    padding-top: 20vh; 
+    padding-top: 10vw; 
     display: flex;
     justify-content : space-around;
 }
